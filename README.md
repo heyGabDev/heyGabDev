@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, ReactNative, AWS**
 
-- 🤝 I would like to participate **in projects that improve everyday lifeyour project**
+- 🤝 I would like to participate **in projects that improve everyday life your project**
 
 - 📫 Send me a email **heygab.consulting@gmail.com**
 
